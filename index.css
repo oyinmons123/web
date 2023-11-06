@@ -65,7 +65,7 @@ a:hover {
 #check {
   display: none;
 }
-@media (max-width: 960px) {
+/*@media (max-width: 960px) {
   nav ul li a {
     font-size: 16px;
   }
@@ -100,12 +100,7 @@ a:hover {
   #check:checked ~ ul {
     left: 0;
   }
-}
-section {
-  background: url(bg1.jpg) no-repeat;
-  background-size: cover;
-  height: calc(100vh-80px);
-}
+}*/
 
 .card-container {
   margin: 20px;
@@ -208,8 +203,6 @@ img {
   margin-left: -40px;
 }
 @media (max-width: 960px) {
-  body {
-  }
   .card-one{
     margin-left: 10px;
   }
@@ -228,7 +221,4 @@ img {
   .card-six{
      margin-left: 10px;
   }
-  /*.card-container {
-    width: 70%;
-  }*/
 }
