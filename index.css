@@ -210,7 +210,25 @@ img {
 @media (max-width: 960px) {
   body {
   }
-  .card-container {
-    width: 70%;
+  .card-one{
+    margin-left: 10px;
   }
+  .card-two{
+    margin-left: 10px;
+  }
+  .card-three{
+    margin-left: 10px;
+  }
+  .card-four{
+    margin-left: 10px;
+  }
+  .card-five{
+    margin-left: 10px;
+  }
+  .card-six{
+     margin-left: 10px;
+  }
+  /*.card-container {
+    width: 70%;
+  }*/
 }
